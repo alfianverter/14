@@ -1,0 +1,21 @@
+{
+    "token": "NDYwODY4OTkyMzYyNjEwNjg4.DhUsCA.HZdOLLPMt-cxE2FbPlFe3LiJrpg",
+    "ownerID": "456497258607935498",
+    "prefix": ">", 
+    "build": {
+        "version": "Beta 0.9",
+        "releaseDate": "TBD"
+    },
+    "owner": {
+        "channels": {
+            "award": "462510547125141514",
+            "report": "462510547125141514"
+        },
+        "awards": {
+            "suggest": 250,
+            "bug": 500,
+            "minor": 600,
+            "major": 2000
+        }
+    }
+}
